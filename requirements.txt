@@ -1,0 +1,6 @@
+streamlit
+pandas
+sentence-transformers
+langchain
+faiss-cpu
+localtunnel
